@@ -1,3 +1,4 @@
-Coffee,2.50,2
-Sandwich,5.00,1
-Cake,3.00,3
+item,price ,quantity
+Coffee,2.5,2
+Sandwich,5,1
+Cake,3,3

@@ -16,6 +16,7 @@ item_count = 0
 try:
     with open(input_file, 'r') as file:
         reader = csv.reader(file)
+        next(reader)
         for row in reader:
             # Each row should be: item_name, price, quantity
             name = row[0]
