@@ -1,0 +1,4 @@
+Total items sold: 6
+Subtotal: $19.00
+Tax (10%): $1.90
+Grand Total: $20.90
